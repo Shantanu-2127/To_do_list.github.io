@@ -7,8 +7,11 @@ This project is a simple web application for managing your to-do tasks. It allow
 Features
 
 Task Management: Add, edit, and remove tasks from your to-do list.
+
 Task Prioritization: Assign priorities to tasks to organize them based on importance.
+
 Task Filtering: Filter tasks based on their status (completed, active, or all).
+
 Persistence: The tasks are stored in the browser's local storage, so they will persist even if you close the application.
 
 Start managing your to-do tasks by adding, editing, and deleting tasks using the provided interface.
